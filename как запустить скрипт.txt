@@ -1,0 +1,5 @@
+cd F:\google_indexing_api
+
+Потом запуск скрипта
+python google_indexing.py
+
