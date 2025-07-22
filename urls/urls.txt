@@ -1,1 +1,2 @@
-http://site.ru/page/
+http://site.ru/page1/
+http://site.ru/page2/
